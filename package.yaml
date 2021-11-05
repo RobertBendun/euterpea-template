@@ -1,0 +1,12 @@
+name:                euterpea-template
+author:              "Robert Bendun"
+license:             BSL-1.0
+
+description:         Please see the README on GitHub at <https://github.com/RobertBendun/euterpea-template>
+
+dependencies:
+- base >= 4.7 && < 5
+- Euterpea
+
+library:
+  source-dirs: src
