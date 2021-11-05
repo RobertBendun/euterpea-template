@@ -22,3 +22,8 @@ ghci> play song
 ```
 
 `song` beeing defined in [src/Example.hs](src/Example.hs).
+
+## See also
+
+- [Euterpea website](https://www.euterpea.com/)
+- [Fluidsynth on ArchWiki](https://wiki.archlinux.org/title/FluidSynth)
